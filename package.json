@@ -1,0 +1,18 @@
+{
+  "name": "elictive",
+  "version": "1.0.0",
+  "description": "Elective activities for NoSQL document modeling with Appwrite (Activity 1-3)",
+  "main": "activity1/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "activity1": "node activity1/app.js",
+    "activity2": "node activity2/app.js",
+    "activity3": "node activity3/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-appwrite": "^13.0.0"
+  }
+}
